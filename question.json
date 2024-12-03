@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "konu": "Osmanlı Devleti",
+    "soru": "Osmanlı Devleti'nin ilk başkenti neresidir?",
+    "cevaplar": ["Bursa", "Edirne", "İstanbul", "Ankara"],
+    "dogru": 0
+  },
+  {
+    "id": 2,
+    "konu": "Cumhuriyet Dönemi",
+    "soru": "Cumhuriyet ilan edildikten sonra ilk başbakan kimdir?",
+    "cevaplar": ["İsmet İnönü", "Rauf Orbay", "Fethi Okyar", "Celal Bayar"],
+    "dogru": 0
+  }
+]
